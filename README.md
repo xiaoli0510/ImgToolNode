@@ -5,12 +5,13 @@ node16.18.1 + image-size@1.0.2 + imagemin@7.0.0 + imagemin-jpegtran@7.0.0 + imag
 
 
 项目运行
+
 git clone --depth 1 https://github.com/xiaoli0510/ImgToolNode.git
 
 cd ImgToolNode (进入项目)
 
 npm install (安装依赖包)
 
-cd src
+cd src (进入js文件)
 
 node 文件名.js
