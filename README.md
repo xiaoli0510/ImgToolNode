@@ -8,4 +8,6 @@ cd ImgToolNode (进入项目)
 
 npm install (安装依赖包)
 
+cd src
+
 node 文件名.js
