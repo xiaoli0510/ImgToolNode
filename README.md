@@ -10,6 +10,8 @@ git clone --depth 1 https://github.com/xiaoli0510/ImgToolNode.git
 
 cd ImgToolNode (进入项目)
 
+安装nodejs
+
 npm install (安装依赖包)
 
 cd src (进入js文件)
